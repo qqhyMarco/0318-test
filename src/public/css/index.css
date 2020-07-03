@@ -1,0 +1,10 @@
+body{
+  background-color: hotpink;
+}
+
+.react {
+ width: 200px;
+ height: 200px;
+  background: url('../imgs/16.jpg') no-repeat;
+  background-size: cover;
+}
